@@ -1,0 +1,326 @@
+1. C:\Users\nunung\Documents>dir
+ Volume in drive C is OS
+ Volume Serial Number is A42B-E9D8
+
+ Directory of C:\Users\nunung\Documents
+
+18/02/2020  11:24    <DIR>          .
+18/02/2020  11:24    <DIR>          ..
+23/05/2019  23:15    <DIR>          Custom Office Templates
+25/01/2020  12:22           835.789 foto.png.docx
+25/11/2019  14:43    <DIR>          IBM
+31/07/2019  09:22       733.868.440 IBM SPSS 25 x64.rar
+21/03/2019  08:54       737.137.273 IBS SPSS Statistics v23 x32bit.rar
+18/02/2020  11:24    <DIR>          SEM. 5
+11/01/2020  22:23    <DIR>          Sound recordings
+21/01/2020  00:25           546.495 UAS RPL.docx
+02/06/2019  14:08    <DIR>          Wondershare Filmora 9
+               4 File(s)  1.472.387.997 bytes
+               7 Dir(s)  421.692.448.768 bytes free
+
+2. C:\Users\nunung\Documents>cd SEM. 5
+
+C:\Users\nunung\Documents\SEM. 5>
+
+3. C:\Users\nunung\Documents\SEM. 5>arp
+
+Displays and modifies the IP-to-Physical address translation tables used by
+address resolution protocol (ARP).
+
+ARP -s inet_addr eth_addr [if_addr]
+ARP -d inet_addr [if_addr]
+ARP -a [inet_addr] [-N if_addr] [-v]
+
+  -a            Displays current ARP entries by interrogating the current
+                protocol data.  If inet_addr is specified, the IP and Physical
+                addresses for only the specified computer are displayed.  If
+                more than one network interface uses ARP, entries for each ARP
+                table are displayed.
+  -g            Same as -a.
+  -v            Displays current ARP entries in verbose mode.  All invalid
+                entries and entries on the loop-back interface will be shown.
+  inet_addr     Specifies an internet address.
+  -N if_addr    Displays the ARP entries for the network interface specified
+                by if_addr.
+  -d            Deletes the host specified by inet_addr. inet_addr may be
+                wildcarded with * to delete all hosts.
+  -s            Adds the host and associates the Internet address inet_addr
+                with the Physical address eth_addr.  The Physical address is
+                given as 6 hexadecimal bytes separated by hyphens. The entry
+                is permanent.
+  eth_addr      Specifies a physical address.
+  if_addr       If present, this specifies the Internet address of the
+                interface whose address translation table should be modified.
+                If not present, the first applicable interface will be used.
+Example:
+  > arp -s 157.55.85.212   00-aa-00-62-c6-09  .... Adds a static entry.
+  > arp -a                                    .... Displays the arp table.
+
+4. C:\Users\nunung>ver
+
+Microsoft Windows [Version 10.0.18362.657]
+
+5. C:\Users\nunung>date
+The current date is: 18/02/2020
+Enter the new date: (dd-mm-yy)
+
+6. C:\Users\nunung>time
+The current time is: 12:00:59,68
+Enter the new time:
+
+7. C:\Users\nunung>hostname
+LAPTOP-73DKUU0N
+
+8. C:\Users\nunung>ipconfig
+
+Windows IP Configuration
+
+
+Ethernet adapter Ethernet:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Local Area Connection* 3:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Local Area Connection* 4:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . :
+   Link-local IPv6 Address . . . . . : fe80::a86b:bb10:c01f:5f29%8
+   IPv4 Address. . . . . . . . . . . : 10.0.136.86
+   Subnet Mask . . . . . . . . . . . : 255.255.0.0
+   Default Gateway . . . . . . . . . : 10.0.0.1
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+9. C:\Users\nunung\Documents>move coba.txt D:
+        1 file(s) moved.
+
+10. C:\Users\nunung>echo Hello Nunung!
+Hello Nunung!
+
+11. C:\Users\nunung\Documents>copy COBA D:
+COBA\*
+The system cannot find the file specified.
+        0 file(s) copied.
+
+12. C:\Users\nunung>systeminfo
+
+Host Name:                 LAPTOP-73DKUU0N
+OS Name:                   Microsoft Windows 10 Home Single Language
+OS Version:                10.0.18362 N/A Build 18362
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          nunung
+Registered Organization:   N/A
+Product ID:                00327-35103-05932-AAOEM
+Original Install Date:     19/10/2019, 06:58:55
+System Boot Time:          17/02/2020, 22:09:37
+System Manufacturer:       ASUSTeK COMPUTER INC.
+System Model:              VivoBook 14_ASUS Laptop X441MA_X441MA
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 122 Stepping 1 GenuineIntel ~1101 Mhz
+BIOS Version:              American Megatrends Inc. X441MA.300, 27/03/2018
+Windows Directory:         C:\WINDOWS
+System Directory:          C:\WINDOWS\system32
+Boot Device:               \Device\HarddiskVolume1
+System Locale:             en-us;English (United States)
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC+07:00) Bangkok, Hanoi, Jakarta
+Total Physical Memory:     3.919 MB
+Available Physical Memory: 715 MB
+Virtual Memory: Max Size:  7.375 MB
+Virtual Memory: Available: 2.819 MB
+Virtual Memory: In Use:    4.556 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\LAPTOP-73DKUU0N
+Hotfix(s):                 8 Hotfix(s) Installed.
+                           [01]: KB4534132
+                           [02]: KB4516115
+                           [03]: KB4521863
+                           [04]: KB4524569
+                           [05]: KB4528759
+                           [06]: KB4537759
+                           [07]: KB4538674
+                           [08]: KB4532693
+Network Card(s):           3 NIC(s) Installed.
+                           [01]: Qualcomm Atheros QCA9377 Wireless Network Adapter
+                                 Connection Name: Wi-Fi
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     2.2.2.2
+                                 IP address(es)
+                                 [01]: 10.0.136.86
+                                 [02]: fe80::a86b:bb10:c01f:5f29
+                           [02]: Realtek PCIe FE Family Controller
+                                 Connection Name: Ethernet
+                                 Status:          Media disconnected
+                           [03]: Bluetooth Device (Personal Area Network)
+                                 Connection Name: Bluetooth Network Connection
+                                 Status:          Media disconnected
+Hyper-V Requirements:      VM Monitor Mode Extensions: Yes
+                           Virtualization Enabled In Firmware: Yes
+                           Second Level Address Translation: Yes
+                           Data Execution Prevention Available: Yes
+
+13. C:\Users\nunung>ping google.com
+
+Pinging google.com [172.217.194.100] with 32 bytes of data:
+Reply from 172.217.194.100: bytes=32 time=25ms TTL=40
+Reply from 172.217.194.100: bytes=32 time=26ms TTL=40
+Reply from 172.217.194.100: bytes=32 time=25ms TTL=40
+Reply from 172.217.194.100: bytes=32 time=25ms TTL=40
+
+Ping statistics for 172.217.194.100:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 25ms, Maximum = 26ms, Average = 25ms
+
+14. 
+C:\Users\nunung\Documents>dir
+ Volume in drive C is OS
+ Volume Serial Number is A42B-E9D8
+
+ Directory of C:\Users\nunung\Documents
+
+18/02/2020  12:14    <DIR>          .
+18/02/2020  12:14    <DIR>          ..
+18/02/2020  12:14    <DIR>          COBA
+23/05/2019  23:15    <DIR>          Custom Office Templates
+25/01/2020  12:22           835.789 foto.png.docx
+25/11/2019  14:43    <DIR>          IBM
+31/07/2019  09:22       733.868.440 IBM SPSS 25 x64.rar
+21/03/2019  08:54       737.137.273 IBS SPSS Statistics v23 x32bit.rar
+18/02/2020  11:24    <DIR>          SEM. 5
+11/01/2020  22:23    <DIR>          Sound recordings
+21/01/2020  00:25           546.495 UAS RPL.docx
+02/06/2019  14:08    <DIR>          Wondershare Filmora 9
+               4 File(s)  1.472.387.997 bytes
+               8 Dir(s)  421.671.378.944 bytes free
+
+C:\Users\nunung\Documents>rmdir COBA
+
+C:\Users\nunung\Documents>DIR
+ Volume in drive C is OS
+ Volume Serial Number is A42B-E9D8
+
+ Directory of C:\Users\nunung\Documents
+
+18/02/2020  12:43    <DIR>          .
+18/02/2020  12:43    <DIR>          ..
+23/05/2019  23:15    <DIR>          Custom Office Templates
+25/01/2020  12:22           835.789 foto.png.docx
+25/11/2019  14:43    <DIR>          IBM
+31/07/2019  09:22       733.868.440 IBM SPSS 25 x64.rar
+21/03/2019  08:54       737.137.273 IBS SPSS Statistics v23 x32bit.rar
+18/02/2020  11:24    <DIR>          SEM. 5
+11/01/2020  22:23    <DIR>          Sound recordings
+21/01/2020  00:25           546.495 UAS RPL.docx
+02/06/2019  14:08    <DIR>          Wondershare Filmora 9
+               4 File(s)  1.472.387.997 bytes
+               7 Dir(s)  421.671.444.480 bytes free
+
+15. C:\Users\nunung\Documents>del foto.png.docx
+
+C:\Users\nunung\Documents>dir
+ Volume in drive C is OS
+ Volume Serial Number is A42B-E9D8
+
+ Directory of C:\Users\nunung\Documents
+
+18/02/2020  12:45    <DIR>          .
+18/02/2020  12:45    <DIR>          ..
+23/05/2019  23:15    <DIR>          Custom Office Templates
+25/11/2019  14:43    <DIR>          IBM
+31/07/2019  09:22       733.868.440 IBM SPSS 25 x64.rar
+21/03/2019  08:54       737.137.273 IBS SPSS Statistics v23 x32bit.rar
+18/02/2020  11:24    <DIR>          SEM. 5
+11/01/2020  22:23    <DIR>          Sound recordings
+21/01/2020  00:25           546.495 UAS RPL.docx
+02/06/2019  14:08    <DIR>          Wondershare Filmora 9
+               3 File(s)  1.471.552.208 bytes
+               7 Dir(s)  421.668.409.344 bytes free
+
+16. C:\Users\nunung\Documents>dir
+ Volume in drive C is OS
+ Volume Serial Number is A42B-E9D8
+
+ Directory of C:\Users\nunung\Documents
+
+18/02/2020  12:46    <DIR>          .
+18/02/2020  12:46    <DIR>          ..
+18/02/2020  12:46                 0 cobaaa.txt
+23/05/2019  23:15    <DIR>          Custom Office Templates
+25/11/2019  14:43    <DIR>          IBM
+31/07/2019  09:22       733.868.440 IBM SPSS 25 x64.rar
+21/03/2019  08:54       737.137.273 IBS SPSS Statistics v23 x32bit.rar
+18/02/2020  11:24    <DIR>          SEM. 5
+11/01/2020  22:23    <DIR>          Sound recordings
+21/01/2020  00:25           546.495 UAS RPL.docx
+02/06/2019  14:08    <DIR>          Wondershare Filmora 9
+               4 File(s)  1.471.552.208 bytes
+               7 Dir(s)  421.669.392.384 bytes free
+
+C:\Users\nunung\Documents>ren cobaaa.txt magang.txt
+
+C:\Users\nunung\Documents>dir
+ Volume in drive C is OS
+ Volume Serial Number is A42B-E9D8
+
+ Directory of C:\Users\nunung\Documents
+
+18/02/2020  12:47    <DIR>          .
+18/02/2020  12:47    <DIR>          ..
+23/05/2019  23:15    <DIR>          Custom Office Templates
+25/11/2019  14:43    <DIR>          IBM
+31/07/2019  09:22       733.868.440 IBM SPSS 25 x64.rar
+21/03/2019  08:54       737.137.273 IBS SPSS Statistics v23 x32bit.rar
+18/02/2020  12:46                 0 magang.txt
+18/02/2020  11:24    <DIR>          SEM. 5
+11/01/2020  22:23    <DIR>          Sound recordings
+21/01/2020  00:25           546.495 UAS RPL.docx
+02/06/2019  14:08    <DIR>          Wondershare Filmora 9
+               4 File(s)  1.471.552.208 bytes
+               7 Dir(s)  421.670.084.608 bytes free
+
+17. C:\Users\nunung\Documents>type magang.txt
+helloooooo
+
+18. C:\Users\nunung>vol
+ Volume in drive C is OS
+ Volume Serial Number is A42B-E9D8
+
+19. C:\Users\nunung\Documents\RESPONSI_B>tree
+Folder PATH listing for volume OS
+Volume serial number is A42B-E9D8
+C:.
+├───New folder
+└───responsi
+
+20. C:\Users\nunung>mkdir coba
+C:\Users\nunung>cd coba
+
+C:\Users\nunung\coba>dir
+ Volume in drive C is OS
+ Volume Serial Number is A42B-E9D8
+
+ Directory of C:\Users\nunung\coba
+
+18/02/2020  13:02    <DIR>          .
+18/02/2020  13:02    <DIR>          ..
+               0 File(s)              0 bytes
+               2 Dir(s)  421.672.992.768 bytes free
+
