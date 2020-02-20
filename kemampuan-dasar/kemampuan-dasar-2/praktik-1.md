@@ -1,6 +1,6 @@
 #Kemampuan Dasar 2
 
-1. buat folder baru dengan nama rhymes dan masuk ke directory rhymes !(https://github.com/nununganggriani/rhymes/blob/master/Gambar/1.PNG)
+1. buat folder baru dengan nama rhymes dan masuk ke directory rhymes ![gambar 1](https://github.com/nununganggriani/rhymes/blob/master/Gambar/1.PNG)
 
 2. inisialisasi git di folder yang sudah di buat !(https://github.com/nununganggriani/rhymes/blob/master/Gambar/2.PNG)
 3. buat satu file dengan perintah touch lalu add dan commit file yang sudah di buat tadi !(https://github.com/nununganggriani/rhymes/blob/master/Gambar/3.PNG)
