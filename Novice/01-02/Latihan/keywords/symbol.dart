@@ -1,0 +1,4 @@
+main(){
+#radix
+#bar
+}
