@@ -1,12 +1,12 @@
 __Selasa__
 
-__Tipe__ Data adalah jenis nilai yang tersimpan pada suatu variabel. Yang berarti jenis atau tipe suatu variabel itu dinamakan tipe data. Adapun contoh jenis-jenis tipe data pada Dart yaitu:
- *Number
+__Tipe__ Data adalah jenis nilai yang tersimpan pada suatu variabel. Yang berarti jenis atau tipe suatu variabel itu dinamakan tipe data. berikut beberapa contoh jenis-jenis tipe data pada Dart yaitu:
+1. Number
     *Integer (Int)
     *Double
- *String
- *Boolean
- *Runes
- *Symbols
+ 2. String
+ 3. Boolean
+ 4. Runes
+ 5. Symbols
  
-Variable yaitu suatu simbol untuk menandakan dan menyimpan suatu nilai.
+__Variable__ yaitu suatu simbol untuk menandakan dan menyimpan suatu nilai.
