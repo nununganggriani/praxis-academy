@@ -13,9 +13,8 @@ void main()
   {
     print('#AUTENTIKASI PIN');
     print('\n*JAGALAH KERAHASIAAN PIN ANDA');
-    stdout.write('-> SILAHKAN MASUKAN PIN ANDA ');
-    inputPin = int.parse(stdin.readLineSync());
-      
+    stdout.write('-> SILAHKAN MASUKAN PIN ANDA ');//fungsi write adl untuk menampilkan teks ke console “apa adanya”.
+    inputPin = int.parse(stdin.readLineSync());//fungsi readLineSync() adalah fungsi untuk membaca input dari keyboard. 
     if(inputPin == pin )
     {
       menuATM();
@@ -24,7 +23,7 @@ void main()
     else
       loginAttempt--;
       print('* PIN YANG ANDA MASUKAN SALAH. SILAHKAN MASUKAN KEMBALI');
-      print('* KESEMPATAN ANDA SISA $loginAttempt\n');
+      print('* KESEMPATAN ANDA SISA $loginAttempt\n');//loginAttempt atau limit login
     }
     while(loginAttempt >= 1 && loginAttempt <= 3);
   print('\n\n\nTERIMA KASIH TELAH MENGGUNAKAN ATM');
