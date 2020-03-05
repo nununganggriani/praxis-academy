@@ -2,7 +2,7 @@ __Pertemuan Hari Kamis__
 
 __List__ yaitu suatu kelompok nilai atau data yang disusun berdasarkan urutan index.
 __Property List__
-    - first	Mengembalikan elemen list pada index pertama
+- first	Mengembalikan elemen list pada index pertama
     - last Mengembalikan elemen list pada index terakhir
     - length Mengembalikan jumlah panjang elemen pada list
     - isEmpty Mengembalikan nilai true jika elemen kosong, false jika tidak
