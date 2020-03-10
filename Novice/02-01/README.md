@@ -12,4 +12,11 @@ software yang digunakan adalah  :
 Kemudian untuk menjalankannya yaitu menggunakan perangkat fisik (HP) Android/IOS dengan menghubungkannya ke laptop dan diatur ke mode pengembang atau juga bisa menggunakan simulator Android studio.
 
 __Mengimplementasikan mobile app sederhana__ 
+
 ![gambar 1](https://github.com/nununganggriani/praxis-academy/blob/master/Novice/02-01/1.png)
+
+__Penggunaan packages English words__
+![gambar 2](https://github.com/nununganggriani/praxis-academy/blob/master/Novice/02-01/2.png)
+
+__Hot Reload__
+![gambar 3](https://github.com/nununganggriani/praxis-academy/blob/master/Novice/02-01/3.png)
