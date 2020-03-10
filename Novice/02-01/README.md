@@ -20,3 +20,5 @@ __Penggunaan packages English words__
 
 __Hot Reload__
 ![gambar 3](https://github.com/nununganggriani/praxis-academy/blob/master/Novice/02-01/3.png)
+
+// coment
