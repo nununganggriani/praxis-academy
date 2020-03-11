@@ -7,7 +7,7 @@ Menampilkan text( I love Flutter,I love Donuts dan I see you) dan ikon love,donu
 
 __Buttons and Stateful Widgets__
 
-Menampilkan button Press me
+menampilkan button Press me
 ![image 2](https://github.com/nununganggriani/praxis-academy/blob/master/Novice/02-02/4.png)
 
 kemudian jika di tekan di button press me maka akan menampilkan Flutter dan Press me
