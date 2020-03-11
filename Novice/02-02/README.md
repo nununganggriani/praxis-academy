@@ -2,7 +2,7 @@ SELASA 10 MARET 2020
 
 __Stateless Widgets__
 
-<div class= "text-justify">Menampilkan text( I love Flutter,I love Donuts dan I see you) dan ikon love,donuts, dan mata.</div>
+Menampilkan text( I love Flutter,I love Donuts dan I see you) dan ikon love,donuts, dan mata.
 ![image 1](https://github.com/nununganggriani/praxis-academy/blob/master/Novice/02-02/1.png)
 
 __Buttons and Stateful Widgets__
