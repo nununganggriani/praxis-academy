@@ -2,12 +2,12 @@ import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart' show debugPaintSizeEnabled;
 
 void main() {
-  debugPaintSizeEnabled = false; // Set to true for visual layout
+  debugPaintSizeEnabled = false; //true for visual layout
   runApp(MyApp());
 }
 
 class MyApp extends StatelessWidget {
-  static final showGrid = true; // Set to false to show ListView
+  static final showGrid = true; //false to show ListView
 
   @override
   Widget build(BuildContext context) {

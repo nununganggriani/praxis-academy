@@ -1,5 +1,6 @@
 SELASA 10 MARET 2020
 
+KASUS.
 __Stateless Widgets__
 
 Menampilkan text( I love Flutter,I love Donuts dan I see you) dan ikon love,donuts, dan mata.
@@ -26,6 +27,8 @@ menampilkan halaman depan page atau Home Page,dan jika di klik ikon Love maka ak
 
 tampilan Second Page,untuk back ke home page klik panah di samping Second Page
 ![image 3](https://github.com/nununganggriani/praxis-academy/blob/master/Novice/02-02/3.png)
+
+LATIHAN.
 
 
 __Widgets__ 
