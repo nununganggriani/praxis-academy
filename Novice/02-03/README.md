@@ -24,14 +24,20 @@ pada screen ini disuruh untuk memilih salah satu opsi
 
 setelah memilih salah satu opsi tadi maka pada first screen akan menampilkan pop up dari opsi yang dipilih.
 (jika memilih Durian)
+
 ![gambar 8](https://github.com/nununganggriani/praxis-academy/blob/master/Novice/02-03/8.png)
 
 (jika memilih Mango)
+
 ![gambar 9](https://github.com/nununganggriani/praxis-academy/blob/master/Novice/02-03/9.png)
 
 __Kasus :__
 
+Realworld.
+
 ![gambar 3](https://github.com/nununganggriani/praxis-academy/blob/master/Novice/02-03/3.png)
+
+Realworld2.
 
 ![gambar 4](https://github.com/nununganggriani/praxis-academy/blob/master/Novice/02-03/4.png)
 
