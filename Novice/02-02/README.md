@@ -30,6 +30,19 @@ tampilan Second Page,untuk back ke home page klik panah di samping Second Page
 
 LATIHAN.
 
+- Basic widgets
+
+![image 11](https://github.com/nununganggriani/praxis-academy/blob/master/Novice/02-02/11.png)
+
+- GridView
+
+![image 10](https://github.com/nununganggriani/praxis-academy/blob/master/Novice/02-02/10.png)
+
+- Layout
+
+![image 8](https://github.com/nununganggriani/praxis-academy/blob/master/Novice/02-02/8.png)
+
+![image 9](https://github.com/nununganggriani/praxis-academy/blob/master/Novice/02-02/9.png)
 
 __Widgets__ 
 Sederhananya pada Flutter ialah seluruh tampilan seperti tombol, gambar, teks, list, ikon, bahkan satu layar pada handphone merupakan sekumpulan dari banyak widget.
