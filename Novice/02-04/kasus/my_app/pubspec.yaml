@@ -40,7 +40,8 @@ flutter:
   # the material Icons class.
   uses-material-design: true
   assets:
-  - images/bts.jpg
+  - images/logo_bt21.png
+  - images/bt21.png
 
   # To add assets to your application, add an assets section, like this:
   # assets:
