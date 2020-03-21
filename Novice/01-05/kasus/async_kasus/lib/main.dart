@@ -1,6 +1,7 @@
 import 'dart:io';
 import 'package:async_kasus/create_api.dart';
-import 'create_api.dart' show ApiService;
+import 'create_api.dart';
+import 'dart:async';
 
 Future<void> main() async {
   var users = await ApiService().getUsers();

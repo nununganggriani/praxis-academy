@@ -109,6 +109,10 @@ class CollapsingList extends StatelessWidget {
         makeHeader('Header Section 4'),
         SliverList(
           delegate: SliverChildListDelegate(
+            (context, index) => GestureDetector(onTap:(){
+            Navigator.of(context).push(MaterialPageRoute(builder: (BuildContext context){return makeHeader[Container].intent;})  
+             );
+            },
             [
               Container(color: Colors.pink, height: 150.0),
               Container(color: Colors.cyan, height: 150.0),
