@@ -41,21 +41,21 @@ __Latihan__
 
 Codelabs
 - Membuat Firebase project
-  1. jika sudah punya akun lakukan sign in dan jika belum, buatlah akun firebase.
-   2. Pada Firebase Console,klik __Add Project__
-   3. Kemudian masukkan nama untuk proyek Firebase dan klik __Lanjutkan__
+  -  jika sudah punya akun lakukan sign in dan jika belum, buatlah akun firebase.
+   -  Pada Firebase Console,klik __Add Project__
+   -  Kemudian masukkan nama untuk proyek Firebase dan klik __Lanjutkan__
 
    ![](https://github.com/nununganggriani/praxis-academy/blob/master/Novice/03-03/latihan/codelabs/1.PNG)
 
-   4. Lalu setel negara/wilayah  ke lokasi organisasi, dan klik __Create Project__
+   - Lalu setel negara/wilayah  ke lokasi organisasi, dan klik __Create Project__
 
    ![](https://github.com/nununganggriani/praxis-academy/blob/master/Novice/03-03/latihan/codelabs/2.PNG)
 
-   5. Project sudah siap.
+   -  Project sudah siap.
 
    ![](https://github.com/nununganggriani/praxis-academy/blob/master/Novice/03-03/latihan/codelabs/3.PNG)
 
-   6. Konfigurasi Android, di Firebase Console pilih Project Overview lalu klik Android button dibawah, "Get started by adding Firebase to your app"
+   -  Konfigurasi Android, di Firebase Console pilih Project Overview lalu klik Android button dibawah, "Get started by adding Firebase to your app"
    
    ![](https://github.com/nununganggriani/praxis-academy/blob/master/Novice/03-03/latihan/codelabs/4.PNG)
 
