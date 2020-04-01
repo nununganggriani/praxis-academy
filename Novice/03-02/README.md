@@ -1,11 +1,13 @@
 PERTEMUAN 03 - 02
 
 __Latihan__
+
 Notes on working with isolates
 
 ![image 1](https://github.com/nununganggriani/praxis-academy/blob/master/Novice/03-02/1.png)
 
 __Kasus__
+
 Fetch Data JSON
 
 ![image 2](https://github.com/nununganggriani/praxis-academy/blob/master/Novice/03-02/2.png)
