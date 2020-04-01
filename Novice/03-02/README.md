@@ -16,7 +16,7 @@ jika __Fetch Data__ di klik maka akan tampil TODO List.
 
 ![image 3](https://github.com/nununganggriani/praxis-academy/blob/master/Novice/03-02/3.png)
 
-langkah - langkah Parse JSON di latar belakang.
+Langkah - langkah Parse JSON di latar belakang.
 1. Menambahkan http package di project, ini akan memudahkan untuk melakukan permintaan jaringan seperti mengambil data dari titik akhir JSON.
 2. Melakukan permintaan jaringan, mencakup cara mengambil data JSON yangbersisi daftar objek foto dari JSONPlaceholder REST API menggunakan metide http.get().
 3. Parsing dan mengkonversikan JSON menjadi daftar foto, mengikuti panduan pengambilan data dari internet, konversi http. Response menjadi daftar objek dart. ini akan membuat data lebih mudah untuk dikerjakan.
